@@ -1,0 +1,4 @@
+
+<launch>
+    <node name="delivery" pkg="delivery" type="delivery" output="screen"/>
+</launch>
